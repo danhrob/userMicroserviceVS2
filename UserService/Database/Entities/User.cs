@@ -10,6 +10,6 @@ namespace UserService.Database.Entities
         public int UserId { get; set; }
         public string Name { get; set; }
         public string Adress { get; set; }
-        public string Contact { get; set; }
+        public string Contact { get; set; } 
     }
 }
